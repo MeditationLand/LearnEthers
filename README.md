@@ -1,6 +1,6 @@
 # LearnEthers
 
-我的Ethers.js学习笔记。
+我的[Ethers.js](https://github.com/WTFAcademy/WTF-Ethers/tree/main)学习笔记。
 
 阅读本仓库前，请确保你已经基本了解了 Solidity 智能合约的开发方法。
 
@@ -35,3 +35,7 @@ RPC URL需要去[Alchemy](https://www.alchemy.com/)官网注册账号，申请�
 ```bash
 node 1_HelloEthers.js
 ```
+
+## 常用资料整合
+
+[v6官方文档](https://docs.ethers.org/v6/)
